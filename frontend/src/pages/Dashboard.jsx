@@ -85,7 +85,7 @@ function Dashboard() {
           <div className="welcome">
 
             <div>
-              <h2>Good morning 👋</h2>
+              <h2>Good morning </h2>
 
               <p>
                 Here's what's happening with your hiring process.

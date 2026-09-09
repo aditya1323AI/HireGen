@@ -5,8 +5,8 @@ function Sidebar() {
     <aside className="sidebar">
 
       <div className="brand">
-        <div className="brand-mark">D</div>
-        <span>DigiHIRE</span>
+        <div className="brand-mark">H</div>
+        <span>HireGen</span>
       </div>
 
       <nav className="navigation">
